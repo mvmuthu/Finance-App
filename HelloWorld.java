@@ -1,3 +1,4 @@
+// This program will print messages on the command line
 public class HelloWorld {
 
     public static void main(String[] args) {
