@@ -1,0 +1,86 @@
+[33mcommit 98d6bf428f9f2f3368e3790bb3587c86b45c3937[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m, [m[1;31morigin/feature-1[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ca11dec 4c4a7a8
+Author: mvmuthu <81729175+mvmuthu@users.noreply.github.com>
+Date:   Sun Aug 29 21:30:19 2021 +0530
+
+    Merge branch 'feature-1' of https://github.com/mvmuthu/Finance-App into feature-1
+
+[33mcommit ca11decd8dbf97fcb983232c7808b0d1bbbe428c[m
+Author: mvmuthu <81729175+mvmuthu@users.noreply.github.com>
+Date:   Sun Aug 29 21:29:40 2021 +0530
+
+    test
+
+[33mcommit 4c4a7a888f7081daeb7d7467e04768901899774d[m
+Author: mvmuthu <81729175+mvmuthu@users.noreply.github.com>
+Date:   Sun Aug 29 21:28:37 2021 +0530
+
+    Update README.md
+
+[33mcommit 53871d737498df30ac6909596f956461206e7475[m
+Author: mvmuthu <81729175+mvmuthu@users.noreply.github.com>
+Date:   Sun Aug 29 21:26:32 2021 +0530
+
+    Update README.md
+    
+    tested
+
+[33mcommit 309f433751b85237e61f27f739e649a5e9be4563[m
+Author: mvmuthu <81729175+mvmuthu@users.noreply.github.com>
+Date:   Sun Aug 29 21:15:10 2021 +0530
+
+    sample a.txt
+
+[33mcommit 423df3b8d53056f0b8c8be1a3f5c8bc3b35ee4d4[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Thu Apr 1 02:53:22 2021 +0000
+
+    Updated code for feature branch
+
+[33mcommit bfeeb1b862e5633b88cef34ed56eeb80f6ae3b18[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Thu Apr 1 02:21:36 2021 +0000
+
+    Added code to new branch
+
+[33mcommit 709a056d1659b3007032f7776111174d007d99de[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Thu Apr 1 02:00:08 2021 +0000
+
+    Added ingore file
+
+[33mcommit 75e1322ea7caf918f2227456b7f6d2f62e999f16[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 03:20:48 2021 +0000
+
+    Updated the HelloWorld.java with new code
+
+[33mcommit 372184c46d483b7e93f142f66414e90e79278eda[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 03:13:58 2021 +0000
+
+    Restored HelloWorld.java from 49967da
+
+[33mcommit 63e8f98ffe305fd67380558f52386f9d2d75c966[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 03:01:54 2021 +0000
+
+    Added a comment line to helloworld
+
+[33mcommit 98832971606285e37d6f1aa988c85a7dd5e58003[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 03:00:48 2021 +0000
+
+    Added new print statement to helloworld
+
+[33mcommit 49967da8215bdea8e3133a495a9176121fe70a58[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 02:48:48 2021 +0000
+
+    Added new readme.md and updated helloworld.java
+
+[33mcommit 50286bfaffdfcaa21e67b89a05bc41deb0eff811[m
+Author: Gopi Shankar <gopi@gmail.com>
+Date:   Wed Mar 31 02:37:31 2021 +0000
+
+    This is the first commit for Finance app
