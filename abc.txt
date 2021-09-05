@@ -1,2 +1,0 @@
-test abc file
-new line added
